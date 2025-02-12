@@ -1,4 +1,4 @@
-My 3d printed 44 key handwierd split keyboard
+A 3d printed 44 key handwierd split keyboard using Alps / matias switches
 
 thanks to ak666666 for the base case layout : https://www.thingiverse.com/thing:4146704
 
